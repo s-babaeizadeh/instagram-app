@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/instagram-app/static/css/main.2c8dfe01.chunk.css",
+    "main.js": "/instagram-app/static/js/main.3b14a517.chunk.js",
+    "main.js.map": "/instagram-app/static/js/main.3b14a517.chunk.js.map",
+    "runtime-main.js": "/instagram-app/static/js/runtime-main.571e1984.js",
+    "runtime-main.js.map": "/instagram-app/static/js/runtime-main.571e1984.js.map",
+    "static/js/2.dcb19c00.chunk.js": "/instagram-app/static/js/2.dcb19c00.chunk.js",
+    "static/js/2.dcb19c00.chunk.js.map": "/instagram-app/static/js/2.dcb19c00.chunk.js.map",
+    "index.html": "/instagram-app/index.html",
+    "precache-manifest.329218cbc60c8a0f35d5777c55bce99f.js": "/instagram-app/precache-manifest.329218cbc60c8a0f35d5777c55bce99f.js",
+    "service-worker.js": "/instagram-app/service-worker.js",
+    "static/css/main.2c8dfe01.chunk.css.map": "/instagram-app/static/css/main.2c8dfe01.chunk.css.map",
+    "static/js/2.dcb19c00.chunk.js.LICENSE.txt": "/instagram-app/static/js/2.dcb19c00.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/instagram-app/static/media/bg7.ba487a8b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.571e1984.js",
+    "static/js/2.dcb19c00.chunk.js",
+    "static/css/main.2c8dfe01.chunk.css",
+    "static/js/main.3b14a517.chunk.js"
+  ]
+}
